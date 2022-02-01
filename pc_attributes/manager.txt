@@ -1,0 +1,72 @@
+FAQ
+
+Count: 3
+Price: 1000
+Comment: vb
+
+ret
+
+Count: 3
+Price: 45000
+Comment: rty
+
+gbgbg
+
+Count: 3
+Price: 13400
+Comment: bgbg
+
+gtgtgtymy
+
+Count: 35
+Price: 1342
+Comment: nnh
+
+RAM
+
+Count: 10
+Price: 10000
+Comment: no
+
+Motherboard
+
+Count: 2
+Price: 13000
+Comment: nope
+
+ram
+
+Count: 1
+Price: 123
+Comment: RGRGRG
+
+TJTTJ
+
+Count: 1
+Price: 342
+Comment: JTJTH
+
+gjfjg
+
+Count: 1
+Price: 134
+Comment: ghfjg
+
+gfjfjhg
+
+Count: 2
+Price: 1000
+Comment: gbglb
+
+RAm
+
+Count: 2
+Price: 1300
+Comment: hghg
+
+MOtherboard
+
+Count: 4
+Price: 1500
+Comment: ttht
+

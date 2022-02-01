@@ -1,0 +1,25 @@
+RAM
+
+Count: 2
+Price: 1000
+Comment: nope
+gjfjg
+
+Count: 1
+Price: 134
+Comment: ghfjg
+gfjfjhg
+
+Count: 2
+Price: 1000
+Comment: gbglb
+RAm
+
+Count: 2
+Price: 1300
+Comment: hghg
+MOtherboard
+
+Count: 4
+Price: 1500
+Comment: ttht
